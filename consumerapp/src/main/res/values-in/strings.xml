@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ConsumerApp</string>
+    <string name="title_home" >Rumah</string>
+    <string name="movies" >film</string>
+    <string name="tv_show" >acara tv</string>
+    <string name="judul">judul</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="ali">Muhammad Ali Wildan</string>
+    <string name="email">aliwildan99@gmail.com</string>
+    <string name="change_language_settings">ganti bahasa</string>
+
+    <string name = "favorite"> favorite </string>
+    <string name="appwidget_text">Contoh</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="empty_text">kosong</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Pesan</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="setting_daily_reminder">Setting Daily Reminder</string>
+    <string name="release_today_reminder">Relesase Today Reminder</string>
+    <string name="title_setting">Language</string>
+</resources>

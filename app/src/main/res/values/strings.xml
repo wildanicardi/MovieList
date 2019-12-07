@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">SubmissionMovie</string>
+    <string name="title_home">Home</string>
+    <string name="movies">movies</string>
+    <string name="tv_show">tv show</string>
+
+    <!-- TODO: Remove or change this placeholder text --><![CDATA[
+        
+         ]]>
+    <string name="judul"> title </string>
+        
+    <string name="deskripsi"> description </string>
+        
+    <string name="ali"> Muhammad Ali Wildan </string>
+        
+    <string name="email"> aliwildan99@gmail.com </string>
+        
+    <string name="change_language_settings"> change language </string>
+    <string name="favorite">favorite</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">kosong</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="setting_daily_reminder">Setting Daily Reminder</string>
+    <string name="release_today_reminder">Relesase Today Reminder</string>
+    <string name="title_setting">Language</string>
+    <string name="release_today">Relesase Today </string>
+    <string name="dialy_notif_subtext">Catalog Movie</string>
+    <string name="non_active_released_reminder">Active release reminder</string>
+    <string name="active_released_reminder">Active release reminder</string>
+    <string name="active_dialy_reminder">Active Dialy reminder</string>
+    <string name="non_active_dialy_reminder">No Active Dialy reminder</string>
+
+</resources>
